@@ -246,7 +246,3 @@ Machine-level implementation:
    dune build src/miniml
    ```
 5. Run the REPL or executable as required.
-
----
-
-Let me know if you want this formatted into a downloadable `.md` file!
